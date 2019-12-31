@@ -1,0 +1,8 @@
+{
+	"name": "templating-api",
+	"description": "Get your JSON templating additions here.",
+	"homepage": "https://gitlab.com/20kdc/ccprestartapi",
+	"version": "0.1.1",
+	"prestart": "prestart.js",
+	"module": true
+}
